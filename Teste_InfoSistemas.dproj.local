@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/31 15:33:32.000.066,=C:\Users\BONOSOFT\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/31 19:07:43.000.375,C:\Users\BONOSOFT\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Dropbox\Projetos\Delphi\InfoSistemas\uCadastro.pas</Transaction>
+    <Transaction>2019/10/31 19:07:43.000.375,C:\Users\BONOSOFT\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Dropbox\Projetos\Delphi\InfoSistemas\uCadastro.dfm</Transaction>
+    <Transaction>2019/10/31 19:08:03.000.258,C:\Users\BONOSOFT\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Dropbox\Projetos\Delphi\InfoSistemas\Teste_InfoSistemas.dproj</Transaction>
+    <Transaction>2019/11/01 01:45:06.000.287,=C:\Dropbox\Projetos\Delphi\InfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 01:46:45.000.965,C:\Dropbox\Projetos\Delphi\InfoSistemas\uEMail.pas=C:\Dropbox\Projetos\Delphi\InfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 01:46:45.000.965,C:\Dropbox\Projetos\Delphi\InfoSistemas\uEMail.dfm=C:\Dropbox\Projetos\Delphi\InfoSistemas\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
